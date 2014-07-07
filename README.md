@@ -31,6 +31,13 @@ Development
 
 6. Run `foreman start`
 
+Testing
+-----------
+
+1. Setup your `development` environment as per above.
+2. Run `rake db:test:prepare`.
+3. Run `rake` to execute the full test suite.
+
 Contributing
 ------------
 
